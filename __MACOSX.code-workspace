@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../__MACOSX"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "C104 Guess the Number Student FIle"
+	}
+}
